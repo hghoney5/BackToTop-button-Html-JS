@@ -40,7 +40,7 @@ Add the script to your site:
 
 ### **Step 2 - Add as a separate file**
 ```html
-<script src="/path/to/back-to-top.js" defer></script>
+<script src="js/back-to-top.js" defer></script>
 ```
 
 That's all — the script inserts the button and CSS automatically.
